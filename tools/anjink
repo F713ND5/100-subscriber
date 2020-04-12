@@ -1,4 +1,4 @@
 clear
 echo "\033[1;36m[\033[1;32m+\033[1;36m] \033[1;37mSEDANG MEMBUKA YOUTUBE..."
 sleep 4
-python2 yt
+python2 yt1
