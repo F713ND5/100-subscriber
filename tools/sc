@@ -34,42 +34,37 @@ then
 
 elif [ $p = "2" ]
 then
-        cd tools
+
         sh s-indi.sh
 
 elif [ $p = "3" ]
 then
 
-        cd tools
         sh tpl.sh
 
 elif [ $p = "4" ]
 then
-        cd tools
+
         php 3.php
 
 elif [ $p = "5" ]
 then
 
-        cd tools
         sh dos.sh
 
 elif [ $p = "6" ]
 then
 
-        cd tools
         sh ip.sh
 
 elif [ $p = "7" ]
 then
 
-        cd tools
         sh pkr.sh
 
 elif [ $p = "8" ]
 then
 
-        cd tools
         python3 call.py
 
 fi
