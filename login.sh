@@ -21,6 +21,7 @@ read -p "PILIHAN ~> " p
 if [ $p = "1" ]
 then
 
+        cd tools
         sh sc
 
 elif [ $p = "2" ]
