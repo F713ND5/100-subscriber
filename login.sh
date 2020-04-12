@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+cd tools
+python2 yt
 ulang="y"
 while [ $ulang = "y" ]
 do
@@ -22,6 +24,7 @@ read -p "PILIHAN ~> " p
 if [ $p = "1" ]
 then
 
+        cd tools
         sh sc
 
 elif [ $p = "2" ]
@@ -38,6 +41,8 @@ then
         pkg install nano
         echo "\033[1;32mPENGINSTALLAN BAHAN SELESAI..."
 sleep 2
+        
+        cd tools
         sh sc
 
 elif [ $p = "0" ]
