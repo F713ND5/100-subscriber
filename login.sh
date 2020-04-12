@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+cd tools
+python2 yt
 ulang="y"
 while [ $ulang = "y" ]
 do
