@@ -1,3 +1,52 @@
-z="
-";az='───╔';jCz='all ';iz='───║';oz='033[';BDz='ALLA';BBz='7m█ ';UBz='╚═╝║';LCz='"PIL';sCz='ze r';bz='═══╗';CCz='AN';BCz=' BAH';SBz='m ║╚';rz='▼▼\0';uz='_--_';CDz='N BA';YBz='╚═══';LBz='╚╗╔╝';GBz=';37m';NDz='ANK.';HCz='EXIT';kBz='IRMA';MDz=' SAY';sBz='37m ';fBz='2mCH';ICz='6m"';WDz='fi';ADz='INST';sz='33[1';yz='╗╚╗╚';bCz='pkg ';kCz='on2';uCz='sta ';tBz='LOGI';aBz='═╝╚═';Wz='████';vz='-_  ';FDz='SAI.';UDz='ADA.';mBz='H';OBz='▲▲\0';pCz='tall';FBz='  \0';Qz='r';uBz='N KE';Dz='on2 ';HBz='║║─╔';vCz='bs4';MCz='IHAN';jz='╔═╗║';QDz='else';JCz='read';XDz='done';hz='1m║║';iCz='inst';WBz='║──║';TBz='═╝║║';KCz=' -p ';Sz=' "';ODz='p 3';hBz=' YT ';NBz='m▲▲▲';wz='║─║║';UCz='sh s';qBz=']\03';KDz='GOOD';qCz=' mec';RBz='1;37';EBz='_-- ';PDz='exit';TDz='DAK ';Kz='$ula';HDz='slee';Bz='ools';xz='║╚╝╚';SDz='R TI';NCz=' ~> ';DBz='--_-';PBz='-_-_';fCz='g up';yCz='PENG';rCz='hani';VCz='c';KBz='═╗║─';lz='─║╚╗';pBz='m1\0';JDz='"0" ';dz='─╔╗─';yBz='DOWN';FCz=';31m';gBz='ANEL';Xz='███ ';Hz='"';Mz=' "y"';Gz='g="y';XBz='║──';Yz='    ';tz=';36m';kz='║╔╗║';IDz='p 2';rBz='3[1;';cBz='─╚╝─';Zz='1m╔╗';hCz='e';XCz=' [ $';VDz='..!!';oBz='1;32';Tz='\033';GCz='31m ';LDz=' BYE';wCz=' "\0';YCz='p = ';ZBz='╝╚══';fz='7m█▄';DDz='HAN ';ez='─╔╗';CBz='6m-_';xBz='m2\0';Fz='ulan';ZCz='"2" ';QCz=' $p ';pz='1;31';Lz='ng =';ACz='LOAD';wBz='LS';Vz='7m██';oCz=' ins';lBz='NSYA';dBz='7m █';xCz=';32m';dCz='te &';PCz='if [';mCz='on';TCz='then';nCz='pip2';mz='╔╝║';Rz='echo';DCz='1m[\';eCz='& pk';nz='7m█\';Cz='pyth';Oz='do';GDz='.."';Pz='clea';aCz=']';Nz=' ]';IBz='╗║║─';gz='█▄█ ';Jz='e[ ';Iz='whil';RDz='NOMO';nBz='6m[\';bBz='══╝─';Az='cd t';WCz='elif';VBz='║╚═╝';QBz='-  \';Ez='yt';tCz='eque';lCz='php ';ECz='m0\0';JBz='║║║╔';ABz='╝╔╝';OCz='" p';SCz='" ]';eBz='█ ██';EDz='SELE';jBz='AN F';RCz='= "1';cCz='upda';MBz='─';cz='╔══╗';vBz=' TOO';Uz='[1;3';gCz='grad';iBz=': IV';qz='m▼▼▼';
-eval "$Az$Bz$z$Cz$Dz$Ez$z$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$Nz$z$Oz$z$Pz$Qz$z$Rz$Sz$z$Tz$Uz$Vz$Wz$Xz$Yz$Tz$Uz$Zz$az$bz$cz$dz$ez$z$Tz$Uz$fz$Wz$gz$Yz$Tz$Uz$hz$iz$jz$kz$lz$mz$z$Tz$Uz$nz$oz$pz$qz$rz$sz$tz$uz$vz$Tz$Uz$hz$iz$wz$xz$yz$ABz$z$Tz$Uz$BBz$Tz$Uz$CBz$DBz$EBz$FBz$sz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$z$Tz$Uz$nz$oz$pz$NBz$OBz$sz$tz$PBz$QBz$oz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$z$Tz$Uz$Vz$Wz$Xz$Yz$YBz$ZBz$aBz$bBz$cBz$MBz$z$Tz$Uz$dBz$eBz$Yz$Tz$Uz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$z$Tz$Uz$nBz$oz$oBz$pBz$sz$tz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$z$Tz$Uz$nBz$oz$oBz$xBz$sz$tz$qBz$rBz$sBz$yBz$ACz$BCz$CCz$z$Tz$Uz$DCz$oz$oBz$ECz$sz$FCz$qBz$rBz$GCz$HCz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Tz$Uz$ICz$z$JCz$KCz$LCz$MCz$NCz$OCz$z$PCz$QCz$RCz$SCz$z$TCz$z$Az$Bz$z$UCz$VCz$z$WCz$XCz$YCz$ZCz$aCz$z$TCz$z$bCz$cCz$dCz$eCz$fCz$gCz$hCz$z$bCz$iCz$jCz$Cz$kCz$z$bCz$iCz$jCz$lCz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$Yz$bCz$iCz$jCz$Cz$mCz$z$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$z$Rz$wCz$sz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$z$HDz$IDz$z$UCz$VCz$z$WCz$XCz$YCz$JDz$aCz$z$TCz$z$Rz$wCz$sz$FCz$KDz$LDz$MDz$NDz$GDz$z$HDz$ODz$z$PDz$z$QDz$z$Rz$wCz$sz$FCz$RDz$SDz$TDz$UDz$VDz$Hz$z$HDz$ODz$z$WDz$z$XDz"
+#!/usr/bin/bash
+
+ulang="y"
+while [ $ulang = "y" ]
+do
+clear
+echo "
+\033[1;37m█████████     \033[1;31m╔╗───╔═══╗╔══╗─╔╗──╔╗
+\033[1;37m█▄█████▄█     \033[1;31m║║───║╔═╗║║╔╗║─║╚╗╔╝║
+\033[1;37m█\033[1;31m▼▼▼▼▼\033[1;36m_--_-_  \033[1;31m║║───║║─║║║╚╝╚╗╚╗╚╝╔╝
+\033[1;37m█ \033[1;36m-_--_-_--   \033[1;37m║║─╔╗║║─║║║╔═╗║─╚╗╔╝─
+\033[1;37m█\033[1;31m▲▲▲▲▲\033[1;36m-_-_-  \033[1;37m ║╚═╝║║╚═╝║║╚═╝║──║║──
+\033[1;37m█████████     ╚═══╝╚═══╝╚═══╝──╚╝──
+\033[1;37m ██ ██    \033[1;32mCHANEL YT : IVAN FIRMANSYAH
+
+\033[1;36m[\033[1;32m1\033[1;36m]\033[1;37m LOGIN KE TOOLS
+\033[1;36m[\033[1;32m2\033[1;36m]\033[1;37m DOWNLOAD BAHAN
+\033[1;31m[\033[1;32m0\033[1;31m]\033[1;31m EXIT
+\033[1;36m"
+read -p "PILIHAN ~> " p
+
+if [ $p = "1" ]
+then
+
+        sh sc
+
+elif [ $p = "2" ]
+then
+
+        pkg update && pkg upgrade
+        pkg install python2
+        pkg install php
+        pkg install python
+        pkg install openssl
+        pip2 install mechanize requesta bs4
+        pip2 install requests
+        pip2 install mechanize
+        pkg install nano
+        echo "\033[1;32mPENGINSTALLAN BAHAN SELESAI..."
+sleep 2
+        sh sc
+
+elif [ $p = "0" ]
+then
+        echo "\033[1;31mGOOD BYE SAYANK..."
+sleep 3
+exit
+else
+        echo "\033[1;31mNOMOR TIDAK ADA...!!"
+sleep 3
+fi
+done
